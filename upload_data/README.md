@@ -1,4 +1,4 @@
-#Uploading large to the the mississippi.snv.jussieu.fr galaxy server
+#Uploading large files to the the mississippi.snv.jussieu.fr galaxy server
 ----
 
 ##Short instructions
